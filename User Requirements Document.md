@@ -121,41 +121,42 @@ By catering to a variety of devices and platforms, including smartphones, web br
    and exercising caution during the ride.
 
    **User requirements for Tez Yatra:**
+   
 1) User Needs:
    The Rapido app should meet the following user needs:
 
-i) Efficiently book rides for convenient transportation
-ii) Provide real-time updates on ride status and driver location
-iii) Offer transparent pricing and payment options for rides
-iv) Ensure safety measures for both riders and drivers
-v) Facilitate easy communication between riders and drivers
+A) Efficiently book rides for convenient transportation
+B) Provide real-time updates on ride status and driver location
+C) Offer transparent pricing and payment options for rides
+D) Ensure safety measures for both riders and drivers
+E) Facilitate easy communication between riders and drivers
 
 2) App Features and Functionalities:
    The Rapido app should include the following features and functionalities to meet user needs:
 
-i) Quick and seamless ride booking process
-ii) Real-time ride tracking and status updates
-iii) Transparent fare estimation and payment options
-iv) Safety features such as SOS alerts and emergency assistance
-v) In-app messaging for communication between riders and drivers
+A) Quick and seamless ride booking process
+B) Real-time ride tracking and status updates
+C) Transparent fare estimation and payment options
+D) Safety features such as SOS alerts and emergency assistance
+E) In-app messaging for communication between riders and drivers
 
 3) Performance Requirements:
    The Rapido app should meet the following performance requirements:
 
-i) Fast and responsive user interface for smooth navigation and booking experience
-ii) Reliable real-time updates on ride status and driver location
-iii) Secure and stable connection for seamless communication and payment processing
-iv) High levels of reliability and availability to ensure users can book rides whenever needed
+A) Fast and responsive user interface for smooth navigation and booking experience
+B) Reliable real-time updates on ride status and driver location
+C) Secure and stable connection for seamless communication and payment processing
+D) High levels of reliability and availability to ensure users can book rides whenever needed
 
 4) User Interface and Design:
    The Rapido app should have a user-friendly interface and design, including:
 
-i) Intuitive and easy-to-use interface for effortless ride booking
-ii) Clear and concise information presentation for ride details and pricing
-iii) Consistent design across all platforms (e.g., iOS, Android) for a seamless user experience
+A) Intuitive and easy-to-use interface for effortless ride booking
+B) Clear and concise information presentation for ride details and pricing
+C) Consistent design across all platforms (e.g., iOS, Android) for a seamless user experience
 
 5) Security Requirements:
 
-i) The user's personal and payment information should be kept confidential and secure.
-ii) The application should implement encryption and other security measures to protect user data from unauthorized access or breaches.
-iii) Safety features such as background checks for drivers and safety training should be in place to ensure the well-being of both riders and drivers.
+A) The user's personal and payment information should be kept confidential and secure.
+B) The application should implement encryption and other security measures to protect user data from unauthorized access or breaches.
+C) Safety features such as background checks for drivers and safety training should be in place to ensure the well-being of both riders and drivers.
