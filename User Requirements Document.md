@@ -60,3 +60,63 @@
 **Objective:-**
 
 Tez Yatra's project objectives encompass a multifaceted approach aimed at revolutionizing urban transportation. At its core, Tez Yatra seeks to provide commuters with a convenient, efficient, and cost-effective alternative to traditional modes of travel. Through its mobile app platform, It aims to streamline the process of booking rides, offering users quick access to two-wheeler, four-wheeler and auto transportation solutions with just a few taps. By leveraging the widespread availability of motorcycles and scooters, Tez Yatra optimizes urban mobility, particularly in areas with heavy traffic congestion or limited public transportation options. Moreover, affordability is a key focus, with Tez Yatra employing shared rides and competitive pricing to cater to budget-conscious commuters. Safety is paramount, with stringent driver screening processes, vehicle safety checks, and real-time ride tracking features ensuring the well-being of both riders and passengers. User experience is prioritized through an intuitive app interface that simplifies the booking process, fosters clear communication, and allows for personalized preferences and feedback. Beyond individual convenience, Tez Yatra recognizes its role in promoting sustainable urban mobility practices. By encouraging shared rides and reducing reliance on single-occupancy vehicles, it also aims to minimize environmental impact and alleviate traffic congestion. Expansion and growth are also central objectives, with Tez Yatra seeking to extend its services to new cities and regions, establishing itself as a leader in the ride-sharing industry through strategic partnerships, market research, and continuous innovation. Through its comprehensive approach, Tez Yatra aims to redefine urban transportation, offering commuters a sustainable, efficient, and enjoyable travel experience.
+
+**Target Environment:-**
+
+The target environment for Tez Yatra encompasses a variety of devices and platforms that users may utilize to access its services, ensuring accessibility and convenience for all users. These include:
+
+1) Smartphones: The Tez Yatra app is available for both iOS and Android smartphones, providing users with 
+   the flexibility to book rides on-the-go using their mobile devices. Users can download the Tez Yatra app 
+   from the respective app stores, making it easily accessible to a wide range of smartphone users.
+2) Web Browser: In addition to the mobile app, users can also access Tez Yatra's services through a web- 
+   based platform, accessible via any web browser on a computer or tablet. This allows users to book rides 
+   and manage their accounts using their desktop or laptop computers, offering flexibility in how they 
+   access Tez Yatra's services.
+3) Feature Phones: Recognizing the diverse user base in certain regions, Tez Yatra may also provide access 
+   to its services through SMS or USSD-based platforms, allowing users with basic feature phones to book 
+   rides via text messages or dial-in services.
+4) Partner Platforms: Tez Yatra may also collaborate with third-party platforms and services, such as ride- 
+   hailing aggregators, to expand its reach and accessibility to users who may prefer to book rides through 
+   other platforms they are already familiar with.
+   
+By catering to a variety of devices and platforms, including smartphones, web browsers, and potentially feature phones, Tez Yatra ensures that its services are accessible to a wide range of users, regardless of their preferred device or technological capabilities. This multi-platform approach enhances the accessibility and convenience of Tez Yatra's ride-sharing services, allowing users to book rides seamlessly from wherever they are.
+
+**Constraints and assumptions:**
+
+**Constraints:**
+1) Network Connectivity: The functionality of the Tez Yatra app depends on a stable internet connection. 
+   Users in areas with poor network coverage or limited access to mobile data may experience difficulties 
+   in booking rides or accessing real-time updates, impacting their overall experience with the app.
+2) Device Compatibility: The full functionality of the Tez Yatra app may vary depending on the user's 
+   device. Older smartphones or devices with outdated operating systems may not support the latest features 
+   or updates of the app, limiting the user's experience and access to certain functionalities.
+3) Geographical Limitations: Tez Yatra's services may not be available in all geographical locations. Users 
+   in areas where Tez Yatra does not operate may be unable to access the app or book rides, restricting 
+   their ability to utilize the platform for transportation needs.
+4) Payment Methods: The availability of payment methods may vary depending on the user's location. Users 
+   without access to credit/debit cards or mobile payment options may face challenges in making payments 
+   for their rides, impacting their ability to use the app effectively.
+5) Vehicle Availability: The availability of Tez Yatra rides may be limited during certain times or in 
+   specific locations, depending on factors such as driver availability and demand. Users may experience 
+   longer wait times or difficulty in finding rides during peak hours or in areas with lower demand for 
+   transportation services.
+
+   **Assumptions:**
+1) Driver Availability: The effectiveness of the Tez Yatra app assumes the availability of drivers willing 
+   to provide rides within the user's vicinity. While efforts are made to maintain a sufficient number of 
+   drivers, factors such as driver availability, peak hours, and location may impact the availability of 
+   rides.
+2) User Availability: The Tez Yatra app assumes that users are available and ready to book rides when 
+   needed. While the app provides real-time updates and notifications, the availability of users to accept 
+   ride offers or initiate ride requests may vary depending on factors such as their schedule, location, 
+   and personal preferences.
+3) Internet Connectivity: The Tez Yatra app relies on a stable internet connection to function optimally. 
+   It assumes that users have access to reliable internet connectivity on their mobile devices to book 
+   rides, make payments, and receive real-time updates. In cases where users face interruptions in 
+   internet connectivity, their ability to use the app effectively may be compromised.
+4) Safety Measures: The Tez Yatra app assumes that users and drivers adhere to safety guidelines and 
+   regulations during rides. While safety features such as real-time ride tracking and SOS alerts are 
+   provided within the app, their effectiveness depends on users and drivers following safety protocols 
+   and exercising caution during the ride.
+
+   
