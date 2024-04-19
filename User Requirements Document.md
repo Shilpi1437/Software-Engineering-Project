@@ -123,7 +123,7 @@ By catering to a variety of devices and platforms, including smartphones, web br
    **User requirements for Tez Yatra:**
    
 1) User Needs:
-   The Rapido app should meet the following user needs:
+   The Tez Yatra app should meet the following user needs:
 
 A) Efficiently book rides for convenient transportation
 B) Provide real-time updates on ride status and driver location
@@ -132,7 +132,7 @@ D) Ensure safety measures for both riders and drivers
 E) Facilitate easy communication between riders and drivers
 
 2) App Features and Functionalities:
-   The Rapido app should include the following features and functionalities to meet user needs:
+   The Tez Yatra app should include the following features and functionalities to meet user needs:
 
 A) Quick and seamless ride booking process
 B) Real-time ride tracking and status updates
@@ -141,7 +141,7 @@ D) Safety features such as SOS alerts and emergency assistance
 E) In-app messaging for communication between riders and drivers
 
 3) Performance Requirements:
-   The Rapido app should meet the following performance requirements:
+   The Tez Yatra app should meet the following performance requirements:
 
 A) Fast and responsive user interface for smooth navigation and booking experience
 B) Reliable real-time updates on ride status and driver location
@@ -149,7 +149,7 @@ C) Secure and stable connection for seamless communication and payment processin
 D) High levels of reliability and availability to ensure users can book rides whenever needed
 
 4) User Interface and Design:
-   The Rapido app should have a user-friendly interface and design, including:
+   The Tez Yatra app should have a user-friendly interface and design, including:
 
 A) Intuitive and easy-to-use interface for effortless ride booking
 B) Clear and concise information presentation for ride details and pricing
