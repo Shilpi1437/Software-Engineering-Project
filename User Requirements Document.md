@@ -160,3 +160,5 @@ C) Consistent design across all platforms (e.g., iOS, Android) for a seamless us
 A) The user's personal and payment information should be kept confidential and secure.
 B) The application should implement encryption and other security measures to protect user data from unauthorized access or breaches.
 C) Safety features such as background checks for drivers and safety training should be in place to ensure the well-being of both riders and drivers.
+
+
