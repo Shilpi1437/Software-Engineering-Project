@@ -66,7 +66,8 @@ Tez Yatra's project objectives encompass a multifaceted approach aimed at revolu
 The target environment for Tez Yatra encompasses a variety of devices and platforms that users may utilize to access its services, ensuring accessibility and convenience for all users. These include:
 
 1) Smartphones: The Tez Yatra app is available for both iOS and Android smartphones, providing users with 
-   the flexibility to book rides on-the-go using their mobile devices. Users can download the Tez Yatra app 
+   the flexibility to book rides on-the-go using their mobile devices. Users can download the Tez Yatra 
+   app 
    from the respective app stores, making it easily accessible to a wide range of smartphone users.
 2) Web Browser: In addition to the mobile app, users can also access Tez Yatra's services through a web- 
    based platform, accessible via any web browser on a computer or tablet. This allows users to book rides 
@@ -75,9 +76,9 @@ The target environment for Tez Yatra encompasses a variety of devices and platfo
 3) Feature Phones: Recognizing the diverse user base in certain regions, Tez Yatra may also provide access 
    to its services through SMS or USSD-based platforms, allowing users with basic feature phones to book 
    rides via text messages or dial-in services.
-4) Partner Platforms: Tez Yatra may also collaborate with third-party platforms and services, such as ride- 
-   hailing aggregators, to expand its reach and accessibility to users who may prefer to book rides through 
-   other platforms they are already familiar with.
+4) Partner Platforms: Tez Yatra may also collaborate with third-party platforms and services, such as 
+   ride- hailing aggregators, to expand its reach and accessibility to users who may prefer to book rides 
+   through other platforms they are already familiar with.
    
 By catering to a variety of devices and platforms, including smartphones, web browsers, and potentially feature phones, Tez Yatra ensures that its services are accessible to a wide range of users, regardless of their preferred device or technological capabilities. This multi-platform approach enhances the accessibility and convenience of Tez Yatra's ride-sharing services, allowing users to book rides seamlessly from wherever they are.
 
@@ -88,11 +89,11 @@ By catering to a variety of devices and platforms, including smartphones, web br
    Users in areas with poor network coverage or limited access to mobile data may experience difficulties 
    in booking rides or accessing real-time updates, impacting their overall experience with the app.
 2) Device Compatibility: The full functionality of the Tez Yatra app may vary depending on the user's 
-   device. Older smartphones or devices with outdated operating systems may not support the latest features 
-   or updates of the app, limiting the user's experience and access to certain functionalities.
-3) Geographical Limitations: Tez Yatra's services may not be available in all geographical locations. Users 
-   in areas where Tez Yatra does not operate may be unable to access the app or book rides, restricting 
-   their ability to utilize the platform for transportation needs.
+   device. Older smartphones or devices with outdated operating systems may not support the latest 
+   features or updates of the app, limiting the user's experience and access to certain functionalities.
+3) Geographical Limitations: Tez Yatra's services may not be available in all geographical locations. 
+   Users in areas where Tez Yatra does not operate may be unable to access the app or book rides, 
+   restricting their ability to utilize the platform for transportation needs.
 4) Payment Methods: The availability of payment methods may vary depending on the user's location. Users 
    without access to credit/debit cards or mobile payment options may face challenges in making payments 
    for their rides, impacting their ability to use the app effectively.
@@ -119,4 +120,42 @@ By catering to a variety of devices and platforms, including smartphones, web br
    provided within the app, their effectiveness depends on users and drivers following safety protocols 
    and exercising caution during the ride.
 
-   
+   **User requirements for Tez Yatra:**
+1) User Needs:
+   The Rapido app should meet the following user needs:
+
+i) Efficiently book rides for convenient transportation
+ii) Provide real-time updates on ride status and driver location
+iii) Offer transparent pricing and payment options for rides
+iv) Ensure safety measures for both riders and drivers
+v) Facilitate easy communication between riders and drivers
+
+2) App Features and Functionalities:
+   The Rapido app should include the following features and functionalities to meet user needs:
+
+i) Quick and seamless ride booking process
+ii) Real-time ride tracking and status updates
+iii) Transparent fare estimation and payment options
+iv) Safety features such as SOS alerts and emergency assistance
+v) In-app messaging for communication between riders and drivers
+
+3) Performance Requirements:
+   The Rapido app should meet the following performance requirements:
+
+i) Fast and responsive user interface for smooth navigation and booking experience
+ii) Reliable real-time updates on ride status and driver location
+iii) Secure and stable connection for seamless communication and payment processing
+iv) High levels of reliability and availability to ensure users can book rides whenever needed
+
+4) User Interface and Design:
+   The Rapido app should have a user-friendly interface and design, including:
+
+i) Intuitive and easy-to-use interface for effortless ride booking
+ii) Clear and concise information presentation for ride details and pricing
+iii) Consistent design across all platforms (e.g., iOS, Android) for a seamless user experience
+
+5) Security Requirements:
+
+i) The user's personal and payment information should be kept confidential and secure.
+ii) The application should implement encryption and other security measures to protect user data from unauthorized access or breaches.
+iii) Safety features such as background checks for drivers and safety training should be in place to ensure the well-being of both riders and drivers.
